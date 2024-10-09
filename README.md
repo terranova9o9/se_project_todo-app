@@ -1,17 +1,20 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+Todo app allows user to create a list of todo tasks.
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+This project showcases refactoring and class creation for better readability and logics.
+Added a formValidator class as well a todo class and refactored the javascript code.
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+- Javascript
+- Refactoring
+- Classes
 
 ## Deployment
 
 This project is deployed on GitHub Pages:
 
-- ADD LINK HERE
+- [Deployment Link](https://terranova9o9.github.io/se_project_todo-app/)
